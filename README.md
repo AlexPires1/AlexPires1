@@ -3,7 +3,7 @@
 - My name is Alex Pires and i'm a Java Developer, from SP, Brazil 🇧🇷
 
 ## About Me
-- Junior Programmer at [@Ofsolution]
+- Junior Programmer at [@Ofsolution](https://www.linkedin.com/company/ofsolution/mycompany/)
 
 ## My Techs
 <div align="left">
