@@ -3,8 +3,7 @@
 - My name is Alex Pires and i'm a Java Developer, from SP, Brazil 🇧🇷
 
 ## About Me
-- Content creator at [@buildrun.tech](https://github.com/buildrun-tech)
-- Tech Lead at [@Itau](https://github.com/itau)
+- Junior Programmer at [@Ofsolution]
 
 ## My Techs
 <div align="left">
